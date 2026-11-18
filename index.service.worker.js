@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795036953|4006103';
+const CACHE_VERSION = '1795039276|3841717';
 /** @type {string} */
 const CACHE_PREFIX = 'Brain Puzzles (w-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
