@@ -1,4 +1,4 @@
 # Brain Puzzles (test build)
 
-Playable browser build of a work-in-progress puzzle game, version 0.47.0.
+Playable browser build of a work-in-progress puzzle game, version 0.48.0.
 Play: https://mk55m.github.io/brain-puzzles-play/
